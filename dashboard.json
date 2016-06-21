@@ -1,0 +1,48 @@
+﻿{
+  "Sucesso": true,
+  "Retorno": {
+    "Lead": {
+      "Total": 0,
+      "Status": [
+        {
+          "Label": "Leads não lidos",
+          "Total": 4
+        },
+        {
+          "Label": "Não respondidos",
+          "Total": 4
+        },
+        {
+          "Label": "Pendentes",
+          "Total": 3
+        }
+      ],
+      "Metrics": [
+        {
+          "Label": "Tempo médio de resposta",
+          "Total": 0
+        }
+      ]
+    },
+    "Stock": {
+      "Total": 103,
+      "Status": [
+        {
+          "Label": "Publicado",
+          "Total": 8
+        },
+        {
+          "Label": "Com Erro",
+          "Total": 8
+        },
+        {
+          "Label": "Não Publicado",
+          "Total": 87
+        }
+      ]
+    }
+  },
+  "Mensagens": [
+    "Sucesso"
+  ]
+}
